@@ -5,4 +5,4 @@
   > 1. Either inflammatory or lung response class
   > 2. Investigate the role Vitmain D plays in those models
 
-> All analyses in this respository will later be designated by their figure number or table number in the manuscript in parantheses.
+> All analyses in this respository are designated by their figure number or table number in the manuscript in parantheses.
