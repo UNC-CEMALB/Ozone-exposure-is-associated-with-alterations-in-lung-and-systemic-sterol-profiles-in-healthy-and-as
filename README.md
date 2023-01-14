@@ -1,7 +1,7 @@
 # P1003_Ozone-Sterols-Healthy-Asthma
 
 
-> Exploratory analyses using sterol and cytokine data prioro to ozone exposure to predict...
+> Exploratory analyses using sterol and cytokine data prior to ozone exposure to predict...
   > 1. Either inflammatory or lung response class
   > 2. Investigate the role Vitmain D plays in those models
 
