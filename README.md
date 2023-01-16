@@ -1,4 +1,4 @@
-# P1003_Ozone-Sterols-Healthy-Asthma
+# Ozone exposure is associated with alterations in lung and systemic sterol profiles in healthy and asthmatic humans
 
 
 > Exploratory analyses using sterol and cytokine data prior to ozone exposure to predict...
