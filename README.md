@@ -13,4 +13,5 @@ In the instance that the files are unable to rendered the NBViewer link can be c
 
 This script was generated to support the manuscript titled 'Ozone exposure is associated with alterations in lung and systemic sterol profiles in healthy and asthmatic humans', currently under review.
 
-![image](https://user-images.githubusercontent.com/69641855/217160986-fc43f034-e114-41b4-8678-611ea0e8d9d7.png)
+![image](https://user-images.githubusercontent.com/69641855/217161264-e8f1314b-b345-43a8-a6c2-5b7f09953ce4.png)
+
